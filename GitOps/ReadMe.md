@@ -2,9 +2,9 @@
 
 ### This Project consist of the following two repos: 
 - <b>IAC_Code</b>
-  - [Terraform configuration sets up an AWS EKS (Elastic Kubernetes Service) Cluster](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
+  - [Terraform configuration sets up an AWS EKS (Elastic Kubernetes Service) Cluster](https://github.com/aa-cloudengineer/iac)
 - <b>Reactjs-quiz-app</b>
-  - [reactjs-quiz-app](https://github.com/aa-cloudengineer/ECS-Deployment)
+  - [reactjs-quiz-app](https://github.com/aa-cloudengineer/reactjs)
 
 ### Project Introduction:
 Welcome to the End-to-End DevSecOps Kubernetes Project guide! In this comprehensive project, we will walk through the process of setting up a robust Three-Tier architecture on AWS using Kubernetes, DevOps best practices, and security measures. This project aims to provide hands-on experience in deploying, securing, and monitoring a scalable application environment.
