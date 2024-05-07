@@ -1,5 +1,6 @@
 # Kubernetes DevSecOps CICD Project Using Github Actions and ArgoCD
 
+### This Project consist of the following two repos: 
 - <b>IAC_Code</b>
   - [Terraform configuration sets up an AWS EKS (Elastic Kubernetes Service) Cluster](https://github.com/aa-cloudengineer/monolithic-applications-to-microservices)
 - <b>Reactjs-quiz-app</b>
